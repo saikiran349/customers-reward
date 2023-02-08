@@ -1,0 +1,52 @@
+const transactions = [
+  {
+    customerId: 1,
+    date: '2022-12-01',
+    amount: 120
+  },
+  {
+    customerId: 2,
+    date: '2022-12-05',
+    amount: 95
+  },
+  {
+    customerId: 1,
+    date: '2022-12-15',
+    amount: 200
+  },
+  {
+    customerId: 2,
+    date: '2022-12-23',
+    amount: 150
+  },
+  {
+    customerId: 1,
+    date: '2023-01-01',
+    amount: 75
+  },
+  {
+    customerId: 2,
+    date: '2023-01-03',
+    amount: 125
+  },
+  {
+    customerId: 1,
+    date: '2023-01-10',
+    amount: 225
+  },
+  {
+    customerId: 2,
+    date: '2023-01-20',
+    amount: 175
+  },
+  {
+    customerId: 1,
+    date: '2023-02-01',
+    amount: 300
+  },
+  {
+    customerId: 2,
+    date: '2023-02-05',
+    amount: 95
+  }
+];
